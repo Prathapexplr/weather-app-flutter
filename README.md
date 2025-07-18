@@ -2,6 +2,8 @@
 
 A beautiful and modern Flutter weather application that allows users to view current weather and 3-day forecasts by searching for a city. The app uses **Open-Meteo API** and stores the last searched city locally using `SharedPreferences`.
 
+<img width="352" height="362" alt="image" src="https://github.com/user-attachments/assets/3032de83-7150-49f0-829b-c1e2e01d7c3e" />
+
 ---
 
 ## 📱 Features
